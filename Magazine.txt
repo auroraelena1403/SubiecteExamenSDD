@@ -1,0 +1,10 @@
+1,Alimentara,Oras1,250.75,12
+2,Market,Oras2,180.50,8
+3,Supermarket,Oras3,320.25,15
+4,Magazin de haine,Oras4,420.80,20
+5,Electronice,Oras5,550.40,25
+6,Depozit de construcții,Oras6,480.20,18
+7,Librarie,Oras7,300.90,10
+8,Florist,Oras8,200.60,14
+9,Bucătărie,Oras9,370.30,22
+10,Bijuterii,Oras1,280.15,16

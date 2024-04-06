@@ -1,0 +1,6 @@
+2,Vocuher 2,12 februarie 2025,145.9
+3,Vocuher 3,13 februarie 2025,245.9
+4,Vocuher 4,14 februarie 2025,345.9
+5,Vocuher 2,15 februarie 2025,445.9
+6,Vocuher 6,16 februarie 2025,545.9
+7,Vocuher 3,17 ianuarie 2025,645.9
